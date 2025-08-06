@@ -1,1 +1,1 @@
-http://yvzz.cn
+http://yvzz.github.io
